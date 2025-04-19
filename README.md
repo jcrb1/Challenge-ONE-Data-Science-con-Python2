@@ -50,3 +50,14 @@ Por ultimo generamos gráficas y realizamos el informe final donde se especifica
 ![image](https://github.com/user-attachments/assets/18d4d8de-3b65-4f8a-8742-9f71c101e14a)
 
 4. Instrucciones para ejecutar el notebook.
+Se importa la información de las base de datos, para poder trabajar con la información y realizar el análisis de datos.
+Para poder ejecutar esta tarea damos click en el botón de play o presionamos las teclas Shift + Enter
+![image](https://github.com/user-attachments/assets/ef74cca2-68a8-46ba-87c8-ada67a9f91a3)
+
+Después vamos trabajando paso a paso según los que nos solicita el archivo para poder realizar el análisis
+Ya hecho el código de Python, damos click en botón de play o presionamos las teclas Shift + Enter para poder visualizar el análisis de los datos y así poder trabajar con la información más necesaria.
+![image](https://github.com/user-attachments/assets/10d16e6b-d0b6-4ce9-955d-0557f4f46c52)
+
+Para agregar Textos y filas para códigos solo hay que darle click en los botones de "+Código" y "+Texto" esto genera nuevos espacios segun la necesidad que se requiera.
+También de dar click en el botón Ejecutar ya que para poder trabajar en el archivo se tiene que estar ejecjutando el mismo.
+![image](https://github.com/user-attachments/assets/dfe59736-e6bb-46dd-ad6d-8c2453794421)
