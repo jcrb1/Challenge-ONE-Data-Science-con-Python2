@@ -9,3 +9,5 @@ Esto con el proposito para que se tome la decisión que más convenga para el ne
 Se utilizo un libro de Google Colab para realizar el análisis de datos  
 
 Primero se realizo la importación de la información de las bases de datos donde estaban los datos de cada tienda y así poder trabajar realizando el análisis de datos, extrayendo los datos necedsarios.
+
+![image](https://github.com/user-attachments/assets/1dfe2e2d-03b7-4746-8c48-a78ab9e88104)
