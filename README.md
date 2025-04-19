@@ -56,6 +56,7 @@ Para poder ejecutar esta tarea damos click en el botón de play o presionamos la
 
 Después vamos trabajando paso a paso según los que nos solicita el archivo para poder realizar el análisis
 Ya hecho el código de Python, damos click en botón de play o presionamos las teclas Shift + Enter para poder visualizar el análisis de los datos y así poder trabajar con la información más necesaria.
+
 ![image](https://github.com/user-attachments/assets/10d16e6b-d0b6-4ce9-955d-0557f4f46c52)
 
 Para agregar Textos y filas para códigos solo hay que darle click en los botones de "+Código" y "+Texto" esto genera nuevos espacios segun la necesidad que se requiera.
