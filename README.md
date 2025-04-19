@@ -42,3 +42,11 @@ Por ultimo generamos gráficas y realizamos el informe final donde se especifica
 ![image](https://github.com/user-attachments/assets/757293e5-4d8e-4c31-a053-8c092c196876)
 ![image](https://github.com/user-attachments/assets/967a8d92-162c-4552-b060-656ec1c16c2a)
 
+3. Ejemplos de gráficos e insights obtenidos.
+
+![image](https://github.com/user-attachments/assets/91a1c482-a3fb-4fd6-a42d-dbd6e16bd89e)
+![image](https://github.com/user-attachments/assets/45606a13-4923-42cb-81de-94cfeab41ea9)
+
+![image](https://github.com/user-attachments/assets/18d4d8de-3b65-4f8a-8742-9f71c101e14a)
+
+4. Instrucciones para ejecutar el notebook.
